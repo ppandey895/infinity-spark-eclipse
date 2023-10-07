@@ -1,0 +1,18 @@
+{
+  "name": "infinity-spark",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "dat.gui": "^0.7.9",
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "three": "^0.157.0"
+  }
+}
